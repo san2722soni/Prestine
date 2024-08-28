@@ -67,7 +67,7 @@ const Contact = () => {
             Connect
           </h2>
           <p className="leading-relaxed mb-5 text-gray-600">
-            We'll Reach you within 24 hours.
+            {`We'll Reach you within 24 hours.`}
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-600">

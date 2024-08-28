@@ -36,8 +36,8 @@ const About = () => {
             Nurturing Nature, Cultivating Trust
           </h1>
           <p className="mb-8 text-base leading-relaxed text-left text-gray-500">
-            At PrestineNature, we deliver nature's purest produce with a
-            commitment to organic farming and sustainability.
+            {`At PrestineNature, we deliver nature's purest produce with a
+            commitment to organic farming and sustainability.`}
           </p>
           <div className="flex flex-wrap w-full">
             <div
