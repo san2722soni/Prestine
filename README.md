@@ -1,39 +1,37 @@
-﻿# Prestine Nature
+# Prestine
 
 Organic farm product website with brand storytelling, product sections, responsive UI, and customer-facing presentation.
 
-## Overview
+## Why This Project Matters
 
-A product-focused website for an organic farm brand, built to showcase products, story, trust, and customer-facing content.
+This repository is kept as part of my portfolio/archive to show progression across frontend, full-stack, UI, and product-building work.
+
+## Highlights
+
+- Product/brand website
+- Customer-facing content sections
+- Responsive visual presentation
+- Landing-page style frontend work
 
 ## Tech Stack
 
-React/Next.js, Tailwind CSS, frontend UI
+Next.js/React, Tailwind/CSS, responsive frontend
 
-## Features
+## Demo
 
-- Brand/product sections
-- Responsive product presentation
-- Clean customer-facing UI
-- Marketing and contact flow
+- Demo video: add when available
 
 ## Run Locally
 
-- Install dependencies with npm install
-- Run locally with npm run dev or the script defined in package.json
+`ash
+npm install
+npm run dev
+`
 
-## Showcase
+For static HTML/CSS projects, open the main index.html file directly or serve the folder with any local static server.
 
-Recommended assets for a stronger portfolio presentation:
+## Portfolio Notes
 
-- Demo video or walkthrough
-- 2-5 screenshots of the main workflow
-- Short architecture/API screenshot where relevant
-
-## Status
-
-Client/startup product website.
-
-## Notes
-
-This repository is maintained as part of a developer portfolio. Secrets and local environment values should stay outside Git and be documented through .env.example files when required.
+- Built/maintained by Aswin Anand.
+- README polished for recruiter/project review.
+- Older projects are preserved as archive proof of frontend progression.
